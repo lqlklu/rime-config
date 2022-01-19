@@ -1,0 +1,18 @@
+# Rime user dictionary
+#@/db_name	clover
+#@/db_type	userdb
+#@/rime_version	1.6.1
+#@/tick	12
+#@/user_id	52f93c80-2e42-4f9c-b2c7-42758c55b053
+guo 	国	c=0 d=0.1 t=4
+huan jing bian liang 	环境变量	c=1 d=1 t=10
+jin xiao 	今宵	c=0 d=0.1 t=4
+jin xiao shui guo yin 	今宵水国吟	c=1 d=1 t=5
+jing xi 	惊喜	c=1 d=1 t=11
+jing xiang 	镜像	c=1 d=1 t=12
+meng 	梦	c=0 d=0.1 t=0
+shui 	水	c=0 d=0.1 t=4
+yin 	吟	c=0 d=0.1 t=4
+zhu lou 	朱楼	c=0 d=0.1 t=0
+zuo ye 	昨夜	c=3 d=3.06106 t=9
+zuo ye zhu lou meng 	昨夜朱楼梦	c=5 d=4.92588 t=7
