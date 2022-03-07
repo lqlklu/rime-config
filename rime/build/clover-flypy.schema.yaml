@@ -2,11 +2,11 @@ __build_info:
   rime_version: 1.7.3
   timestamps:
     "clover-flypy.custom": 0
-    "clover-flypy.schema": 1605596213
-    clover.key_bindings: 1597049531
+    "clover-flypy.schema": 1642598514
+    clover.key_bindings: 1642598514
     clover.key_bindings.custom: 0
     default: 1624840803
-    default.custom: 1605596254
+    default.custom: 1642598514
     key_bindings: 1624840803
     key_bindings.custom: 0
     punctuation: 1624840803
@@ -407,7 +407,7 @@ schema:
     - emoji
   description: |
     为四叶草输入方案加入小鹤双拼支持
-    
+
   name: "四叶草 小鹤双拼"
   schema_id: "clover-flypy"
   version: 1.0.0
